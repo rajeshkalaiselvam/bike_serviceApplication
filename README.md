@@ -17,6 +17,8 @@ Git
 
 Step 1: Clone the Repository
 The first step is to clone the project repository to your local machine. Open your terminal and execute the following command:
-console
+```console
 git clone (https://github.com/rajeshkalaiselvam/bike_serviceApplication.git)
 cd project_directory
+```
+
