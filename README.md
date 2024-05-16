@@ -10,10 +10,9 @@ Prerequisites
 
 Before we begin, make sure you have the following installed on your system:
 
-*Laravel version 11
-*PHP version 8.2
-*Composer version 2.7
-*Git
+PHP version 8.2
+Composer version 2.7
+Git
 
 
 Step 1: Clone the Repository
